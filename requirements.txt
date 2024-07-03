@@ -1,0 +1,7 @@
+openai
+fastapi
+pydantic
+SQLAlchemy
+passlib
+uuid==1.30
+datetime
