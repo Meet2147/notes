@@ -5,3 +5,4 @@ SQLAlchemy
 passlib
 uuid==1.30
 datetime
+bcrypt
